@@ -1,4 +1,4 @@
-## Automator Workflows
+## macOS Automator Workflows
 Nothing more than a small collection of Apple macOS automator workflows that I have created over the years. Make sure to check out the usage/installation information if you plan on using any of these.
 
 ## Workflows
