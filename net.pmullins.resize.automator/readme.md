@@ -1,5 +1,5 @@
-## Open In Terminal
-A macOS Automator workflow that resizes images to 1024x768 for use on social media sites.
+## Resize
+A macOS Automator workflow that scales large images down to 1024x768 for use on social media sites.
 
 ## Installation
 Double-click on the workflow file and then choose "Install" or copy the workflow into `~/Library/Services`
